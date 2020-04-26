@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>shadertoy.js</file>
+        <file>fbx/async/deferred.js</file>
+        <file>fbx/async/qmldir</file>
+        <file>fbx/web/http.js</file>
+        <file>fbx/web/parseuri.js</file>
+        <file>fbx/web/qmldir</file>
+        <file>fbx/web/rest.js</file>
+        <file>ShaderInputBuffer.qml</file>
+        <file>ShaderInputImage.qml</file>
+        <file>ShaderRenderPass.qml</file>
+        <file>ShaderToy.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>

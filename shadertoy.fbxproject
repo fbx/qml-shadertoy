@@ -1,0 +1,27 @@
+import QmlProject 1.1
+
+Project {
+    mainFile: "main.qml"
+
+    QmlFiles {
+        recursive: false
+        directory: "."
+    }
+    JavaScriptFiles {
+        recursive: false
+        directory: "."
+    }
+    ImageFiles {
+        recursive: false
+        paths: ["icon.png"]
+    }
+    Files {
+        recursive: false
+        filter: "qmldir"
+        directory: "."
+    }
+    Files {
+        filter: "manifest.json"
+        directory: "."
+    }
+}

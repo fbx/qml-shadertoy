@@ -1,0 +1,18 @@
+{
+    "name": "ShaderToy",
+    "identifier": "fr.freebox.shadertoy",
+    "description": "ShaderToy viewer",
+    "display": "tv1080",
+    "capabilities": {
+        "net_wan": "required"
+    },
+    "entryPoints": {
+        "main": {
+            "file": "main.qml",
+            "default": true
+        },
+        "screensaver": {
+            "file": "screensaver.qml"
+        }
+    }
+}

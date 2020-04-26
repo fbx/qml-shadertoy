@@ -1,0 +1,4 @@
+ShaderToy 1.0 ShaderToy.qml
+ShaderRenderPass 1.0 ShaderRenderPass.qml
+ShaderInputBuffer 1.0 ShaderInputBuffer.qml
+ShaderInputImage 1.0 ShaderInputImage.qml
